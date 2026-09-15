@@ -12,3 +12,4 @@ More weeks will be added as the course progresses.
 - **[Week 5: React.js-based Menu Navigation System](5_university_menu)**
 - **[Week 6: React.js-based Counter Application](6_counter)**
 - **[Week 7: Node.js Web Server with Routing and Middleware](7_node_server)**
+- **[Week 8: Node.Js Web Server Using Fs, Http And Url Modules](8_nodejs_http_fs_url)**
